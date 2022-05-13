@@ -5,10 +5,11 @@ Project for CSIT415 Software Engineering II
 Requirements
 
 Functions:
-
 Login
+
 Online Balance Check and Transaction Information
 Save or view up to 1 year of transaction history
+
 Balance Transfer
 Online Record Entry
 Online Record Search
